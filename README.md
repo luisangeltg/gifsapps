@@ -4,10 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is an Angular App. Here we can see how to consume the open API of Giphy and show to the user a list of items. Also we saving the historial in the localStorage to have persistency of the information that the user where looking for.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f7c71146bc353249ddd0de550f786c805d58b53a
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
